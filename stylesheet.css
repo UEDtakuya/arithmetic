@@ -41,6 +41,10 @@ a {
   color: green;
 }
 
+.top-wrapper span2 {
+  color: red;
+}
+
 .btn-wrapper {
   text-align: center;
 }
