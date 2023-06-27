@@ -21,18 +21,20 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top2.jpg);
   background-size: cover;
-  color: black;
+  color: white;
   text-align: center;
 }
 
 .top-wrapper h1 {
   opacity: 1.0;
+  background-color: rgba(34,49,52,0.9);
   font-size: 45px;
   letter-spacing: 5px;
 }
 
 .top-wrapper p {
   opacity: 1.0;
+  background-color: rgba(34,49,52,0.9);
   font-size: 20px;
   margin-bottom: 40px;
 }
