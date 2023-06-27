@@ -37,6 +37,10 @@ a {
   margin-bottom: 40px;
 }
 
+.top-wrapper span {
+  color: red;
+}
+
 .btn-wrapper {
   text-align: center;
 }
