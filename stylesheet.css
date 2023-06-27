@@ -26,15 +26,15 @@ a {
 }
 
 .top-wrapper h1 {
-  opacity: 1.0;
   background-color: rgba(34,49,52,0.9);
+  opacity: 1.0;
   font-size: 45px;
   letter-spacing: 5px;
 }
 
 .top-wrapper p {
-  opacity: 1.0;
   background-color: rgba(34,49,52,0.9);
+  opacity: 1.0;
   font-size: 20px;
   margin-bottom: 40px;
 }
